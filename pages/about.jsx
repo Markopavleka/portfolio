@@ -23,8 +23,8 @@ function About() {
               career to crafting innovative web solutions that not only meet but
               exceed expectations.
             </p>
+            <img class="myPicture" src="/IMG_6854.jpeg" alt="Thats me"></img>
           </div>
-          <img src="/IMG_6854.jpeg" alt="Thats me"></img>
         </div>
       </section>
     </>
