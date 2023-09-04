@@ -24,6 +24,7 @@ function About() {
               exceed expectations.
             </p>
           </div>
+          <img src="/public/IMG_6854.jpeg" alt="picture"></img>
         </div>
       </section>
     </>
